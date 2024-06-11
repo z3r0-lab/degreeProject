@@ -1,0 +1,1 @@
+I developed a camera control system with head tracking for an unmanned aerial vehicle (UAV). For this, I used two servomotors on the X and Y axes. The head tracking functionality is implemented in Python. It calculates the head rotation angles and sends them to Arduino code. The Arduino then processes the data and sends the signals to the servomotors.
