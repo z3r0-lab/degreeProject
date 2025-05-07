@@ -103,7 +103,7 @@ The goal of the project is to design and implement a hands-free control system t
 
 ## 🎓 Author
 
-**Bagzhan Artykbai**  
+**Bagzhan Artykbayev**  
 Bachelor of Engineering in Robotics and Automation  
 **Almaty University of Power Engineering and Telecommunications (AUES)**
 
