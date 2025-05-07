@@ -92,13 +92,18 @@ The goal of the project is to design and implement a hands-free control system t
 * Real-time gesture-based interfaces
 
 ## 🧪 Limitations & Future Work
-* Currently supports single-user frontal tracking with standard webcam.
-* Planned enhancements:
-  Use of IMU sensors for greater accuracy
-  Wireless communication (Bluetooth/Wi-Fi)
-  Integration into robotic platforms or assistive technologies
 
-## 👨‍🎓 Author
-Bagzhan Artykbai
-Bachelor of Engineering in Robotics and Automation
-Almaty University of Power Engineering and Telecommunications (AUES)
+- Currently supports single-user tracking with a frontal webcam.
+
+### Future Improvements:
+- Use of IMU sensors for better precision
+- BLE/Wi-Fi communication instead of USB
+- Integration with robotic platforms or wheelchair systems
+
+
+## 🎓 Author
+
+**Bagzhan Artykbai**  
+Bachelor of Engineering in Robotics and Automation  
+**Almaty University of Power Engineering and Telecommunications (AUES)**
+
